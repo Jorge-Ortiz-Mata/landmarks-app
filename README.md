@@ -2,6 +2,6 @@
 
 This is basic SwiftUI App. The Landmarks App displays information about landmarks. It uses navigation, lists and pass data between screens.
 
-![](./assets/01.png)
-![](./assets/02.png)
-![](./assets/03.png)
+<img src="./assets/01.png" width="180" height="350" />
+<img src="./assets/02.png" width="180" height="350" />
+<img src="./assets/03.png" width="180" height="350" />
