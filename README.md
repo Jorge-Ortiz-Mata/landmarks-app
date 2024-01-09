@@ -1,3 +1,7 @@
-# Completed project: Creating and combining views
+# Landmarks App
 
-Explore the completed project for the [Creating and combining views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views) tutorial.
+This is basic SwiftUI App. The Landmarks App displays information about landmarks. It uses navigation, lists and pass data between screens.
+
+![](./assets/01.png)
+![](./assets/02.png)
+![](./assets/03.png)
